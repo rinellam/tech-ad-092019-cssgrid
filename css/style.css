@@ -59,6 +59,11 @@ body {
     grid-column: 3;
 }
 
+.card-btn:hover{
+    background: fuchsia;
+    color: #ffffff;
+}
+
 .card-read-time {
     margin: 0;
     opacity: .6;
